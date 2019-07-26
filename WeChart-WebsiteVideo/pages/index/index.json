@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "网站首页",
+  "usingComponents": {
+    "NavTitle":"../../components/NavTitle/NavTitle"
+  }
+
+}

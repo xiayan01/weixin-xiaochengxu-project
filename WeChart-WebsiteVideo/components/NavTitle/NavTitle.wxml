@@ -1,0 +1,21 @@
+<view class="nav_title">
+  <navigator class="logo" >
+      <image class="logo_img" src="../../img/baidu.png" />
+  </navigator>
+
+  <view class="search">
+      <image class="search_img" src="../../img/search.png" />
+  </view>
+    
+  <view class="user" >
+      <image class="user_img" src="../../img/user.png" />
+  </view>
+
+  <view class="down_app" >
+    下载App
+  </view>
+    
+    
+  
+</view>
+  
